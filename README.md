@@ -1,7 +1,7 @@
 # Learning One-shot Face Reenactment
 Official test script for 2019 BMVC paper 'Learning One-shot Face Reenactment' in PyTorch.
 
-![image](https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/pics/main.png)
+![image](https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/blob/master/pics/main.png)
 
 ## Installation
 
@@ -35,7 +35,7 @@ Project
 - lms : store landmarks extracted from images
 	- format : 106 common facial key points & 20+20 gaze key points
 	
-	![image](https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/pics/lms.png)
+	![image](https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/blob/master/pics/lms.png)
 
 Example input data is organized in folder 'data'. Please organize your data in the format the same as the example input data if you want to test with your own data. 
 
