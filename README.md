@@ -1,5 +1,5 @@
-# Learning One-shot Face Reenactment
-Official test script for 2019 BMVC paper 'Learning One-shot Face Reenactment' in PyTorch.
+# One-shot Face Reenactment
+Official test script for 2019 BMVC paper 'One-shot Face Reenactment' in PyTorch.
 
 <img src="https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/blob/master/pics/main.png" width = 900 align=middle>
 
