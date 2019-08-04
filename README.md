@@ -63,7 +63,7 @@ Project
 ├── pretrainModel
 │   ├── id_200.pth
 │   ├── vgg16-397923af.pth
-├── pretrainModel
+├── trained_model
 │   ├── latest_net_appEnc.pth
 │   ├── latest_net_appDnc.pth
 │   ├── latest_net_netG.pth
