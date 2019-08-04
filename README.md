@@ -31,7 +31,7 @@ Project
 │   │   ├── imgs
 │   │   ├── lms
 ```
-- imgs : store images that match lms
+- imgs : store images
 - lms : store landmarks extracted from images
 	- format : 106 common facial key points & 20+20 gaze key points
 	
@@ -57,7 +57,20 @@ output sequence:
 ```
 
 ### Pretrained model
-You can download the model from [here](https://drive.google.com/open?id=1Wnc2TGwFQM4PdCdeSn-trI75UeGbuY_E) 
+You can download models from [here](https://drive.google.com/open?id=1Wnc2TGwFQM4PdCdeSn-trI75UeGbuY_E) 
+```shell
+Project
+├── pretrainModel
+│   ├── id_200.pth
+│   ├── vgg16-397923af.pth
+├── pretrainModel
+│   ├── latest_net_appEnc.pth
+│   ├── latest_net_appDnc.pth
+│   ├── latest_net_netG.pth
+│   ├── latest_net_netD64.pth
+│   ├── latest_net_netD128.pth
+│   ├── latest_net_netD256.pth
+```
 
 ### Visualization of results
 You can download our sample data and corresponding results from [here](https://drive.google.com/open?id=1Ia8YJrtYTvNRwBfcKK7iBSAf5vb8gkqw)
