@@ -8,7 +8,7 @@ Official test script for 2019 BMVC paper 'One-shot Face Reenactment' in PyTorch.
 ### Requirements
 - Linux
 - Python 3.6
-- PyTorch 1.0+
+- PyTorch 0.4+
 - CUDA 9.0+
 - GCC 4.9+
 
