@@ -1,4 +1,7 @@
 # One-shot Face Reenactment
+
+[[Paper]]() [[Demo]](https://www.youtube.com/watch?v=FE-D6wh11_A)  
+
 Official test script for 2019 BMVC paper 'One-shot Face Reenactment' in PyTorch.
 
 <img src="https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment/blob/master/pics/main.png" width = 900 align=middle>
@@ -75,8 +78,13 @@ Project
 ### Visualization of results
 You can download our sample data and corresponding results from [here](https://drive.google.com/open?id=1Ia8YJrtYTvNRwBfcKK7iBSAf5vb8gkqw)
 
-
-
-
-
- 
+## License and Citation
+The use of this software follows **MIT License**.
+```
+@article{OneShotFace2019,
+  title={One-shot Face Reenactment},
+  author={Zhang, Yunxuan and Zhang, Siwei and He, Yue and Li, Cheng and Loy, Chen Change and Liu, Ziwei},
+  journal={Tech Report},
+  year={2019}
+}
+```
