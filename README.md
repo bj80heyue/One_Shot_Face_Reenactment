@@ -81,10 +81,10 @@ You can download our sample data and corresponding results from [here](https://d
 ## License and Citation
 The use of this software follows **MIT License**.
 ```
-@article{OneShotFace2019,
+@inproceedings{OneShotFace2019,
   title={One-shot Face Reenactment},
   author={Zhang, Yunxuan and Zhang, Siwei and He, Yue and Li, Cheng and Loy, Chen Change and Liu, Ziwei},
-  journal={Tech Report},
+  booktitle={British Machine Vision Conference (BMVC)},
   year={2019}
 }
 ```
