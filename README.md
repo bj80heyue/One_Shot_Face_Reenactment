@@ -1,6 +1,6 @@
 # One-shot Face Reenactment
 
-[[Paper]]() [[Demo]](https://www.youtube.com/watch?v=FE-D6wh11_A)  
+[[Project]](https://wywu.github.io/projects/ReenactGAN/OneShotReenact.html) [[Paper]](https://arxiv.org/abs/1908.03251) [[Demo]](https://www.youtube.com/watch?v=FE-D6wh11_A)  
 
 Official test script for 2019 BMVC paper 'One-shot Face Reenactment' in PyTorch.
 
