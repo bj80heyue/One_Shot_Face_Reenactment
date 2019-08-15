@@ -44,6 +44,11 @@ Example input data is organized in folder 'data'. Please organize your data in t
 
 Output images are saved in folder 'output'.
 
+Due to the protocol of company, the model to extract 106 + 40 facial landmarks cannot be released, however, if you want to get access to the following dataset, please fill in the license file in the repo (license/celebHQlms_license.pdf), then email the signed copy to siwei.1995@163.com to get access to the annotation dataset. 
+- our preprocessed 106 + 40 facial landmark annotations of celebHQ dataset
+- additional 80 images as pose guide with corresponding 106 + 40 facial landmark annotations
+
+
 ### Inference with pretrained model
 ```
 python test.py --pose_path PATH/TO/POSE/GUIDE/IMG/DIR --ref_path PATH/TO/REF/IMG/DIR --pose_lms PATH/TO/POSE/LANDMARK/FILE --ref_lms PATH/TO/REF/LANDMARK/FILE
